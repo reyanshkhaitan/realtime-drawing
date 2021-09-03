@@ -1,0 +1,30 @@
+.heading{
+width: 100%;
+font-size: 24px;
+box-shadow: 5px 5px 5px darkblue;
+font-family: 'Cinzel Decorative', cursive;
+}
+.note{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    width:80%;
+}
+.copy_right_footer{
+    position:fixed;
+    background-color: tomato;
+    color:white;
+    width:20%;
+    line-height: 2;
+    bottom: 0;
+    border:3px solid black ;
+    border-radius: 10;
+    text-align: center;
+    font-weight: bold;
+}
+
+canvas{
+    border: 5px dotted greenyellow;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px rgb(0, 140, 255);
+}
